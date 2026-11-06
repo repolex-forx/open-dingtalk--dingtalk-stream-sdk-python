@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/open-dingtalk/dingtalk-stream-sdk-python/commit/8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
       "git:hexsha": "8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.24.4b1"
     },
     {
