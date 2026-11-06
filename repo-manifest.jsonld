@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/open-dingtalk/dingtalk-stream-sdk-python/commit/8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
       "git:hexsha": "8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.24.4b1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.24.4b1",
+      "repolex:parsedAt": "2026-11-06T03:11:27.949745+00:00"
     },
     {
       "@id": "https://repolex.ai/r/open-dingtalk/dingtalk-stream-sdk-python/commit/0a8b49a029dd3e130e951e322da1f00bdbb80722",
