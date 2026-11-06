@@ -1,0 +1,51 @@
+{
+  "manifest_version": "1.0",
+  "org": "open-dingtalk",
+  "repo": "dingtalk-stream-sdk-python",
+  "versions": [
+    {
+      "commit": "8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
+      "parsed_at": "2026-11-06T03:09:05.220610+00:00",
+      "tag": "v0.24.4b1",
+      "filetree": "filetree/8d8bb1c630848fee1ae8c7bdd11bc1b78097b611.nq.gz",
+      "blobs": [
+        "blob/09e3a2725bae3ec2b201fb3d08eb210c1ec5ade1.nq.gz",
+        "blob/661595f0051937c67c0e39f43715b473a7327cf0.nq.gz",
+        "blob/80c717a87d4e3281df84772690a30cb02c78ae35.nq.gz",
+        "blob/ae18d5763ca9de3d9f996302439298edf03b380f.nq.gz",
+        "blob/7ece288f87ea3d1649b5da0ca4dae2accc8d1028.nq.gz",
+        "blob/67c31ff98641a70e9f2aa176e3a0c6c9d320c79b.nq.gz",
+        "blob/16a346c89c8d3fd873dc28b14b641d58f5755677.nq.gz",
+        "blob/0692430feaeb25ac36c7eb730edb045321b56cf9.nq.gz",
+        "blob/1d57a0ab329554f1a2e2a9e9398c33fd57c7b135.nq.gz",
+        "blob/b6607ed5125ab57ffe8a0566907f3537df202ccc.nq.gz",
+        "blob/df9559eaed722a0a0a2fd27c22a0a12812fdb992.nq.gz",
+        "blob/ad72584bc69944ee741278d5b6ce42a6a85b36fd.nq.gz",
+        "blob/855ee85e561a5f142f3e1978039fffeacc61af79.nq.gz",
+        "blob/99a3c65de9ff718e9cad03338cbd0d53b13b862a.nq.gz",
+        "blob/f057ef60b2188a77f4f5244dc69c2ea1800fa155.nq.gz",
+        "blob/c50d9e4849b2210d11da5f4a0fd2ad470181acf5.nq.gz",
+        "blob/94919c53d17a235c735faa18ff3ff954b587b0bd.nq.gz",
+        "blob/2692997a2d666fa3bad137af8460c527f5f8dea4.nq.gz",
+        "blob/6cb924da29ddbbad1dc391bb0c597bbf8a5df2c4.nq.gz",
+        "blob/0184c33832e0a6e241403aa5e2b8d0be5d2b22dd.nq.gz",
+        "blob/2e702b062d45dc784d9c4cab5114247a510c447e.nq.gz",
+        "blob/20c28ea8f3175dd9f2552f41b6d9eec28df9c8ec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/a12d0922a13d8aae6470c1d62da496e429b7b52f.nq.gz",
+        "blob/1f95094173290fcd8575273aac507a970a6a0704.nq.gz",
+        "blob/be4d69f10ae6a7ea38d29489545a83a78bd0ee82.nq.gz",
+        "blob/065eb32d916ba342a715eb920251734d8045adc6.nq.gz",
+        "blob/1f26b3efc9d7e2625318b8ec9b3dd627de0078cc.nq.gz",
+        "blob/dc709741a4e5fffa0560c472dcc7e616b8963421.nq.gz",
+        "blob/7e76538a17fbd971274fbc47c36123b2222938fe.nq.gz",
+        "blob/217152c39836f7fef56f9b06284bdbae2e532410.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
