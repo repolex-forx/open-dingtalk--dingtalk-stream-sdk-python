@@ -93,6 +93,54 @@
       ],
       "ast": [
         "aggregate/ast/6381a7bacb0353e1e0cd425688a02ff785fda44c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6381a7bacb0353e1e0cd425688a02ff785fda44c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "websockets",
+          "ecosystem": "PYPI",
+          "version": "11.0.2",
+          "githubOrg": "python-websockets",
+          "githubRepo": "websockets",
+          "githubCommit": "0ce16b23808a154829acf2ec786f1e67c1bd4cdf",
+          "githubTag": "11.0.2",
+          "githubUrl": "https://github.com/python-websockets/websockets",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.30.0",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "2ad18e0e10e7d7ecd5384c378f25ec8821a10a29",
+          "githubTag": "v2.30.0",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "aiohttp",
+          "ecosystem": "PYPI",
+          "version": "3.10.0",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubCommit": "7f298511915205d86ac12c0e79bfeda138ffb451",
+          "githubTag": "v3.10.0",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
