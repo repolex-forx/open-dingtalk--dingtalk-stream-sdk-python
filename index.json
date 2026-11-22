@@ -3,6 +3,11 @@
   "repo": "dingtalk-stream-sdk-python",
   "versions": [
     {
+      "commit": "6381a7bacb0353e1e0cd425688a02ff785fda44c",
+      "tag": "v0.24.3",
+      "parsed_at": "2026-11-22T06:52:47.933528+00:00"
+    },
+    {
       "commit": "8d8bb1c630848fee1ae8c7bdd11bc1b78097b611",
       "tag": "v0.24.4b1",
       "parsed_at": "2026-11-06T03:11:27.951800+00:00"
